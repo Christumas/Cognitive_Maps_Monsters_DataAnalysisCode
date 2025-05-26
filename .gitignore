@@ -3,3 +3,4 @@ Feedback_Summary.txt
 *.csv
 JatosExperiment_Results
 ProcessedData_ForAnalysis
+LogisticModel_Results
