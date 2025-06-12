@@ -1,4 +1,4 @@
-Prelim_Results
+Prelim_Data
 Feedback_Summary.txt
 *.csv
 JatosExperiment_Results
@@ -7,3 +7,4 @@ LogisticModel_Results
 LinearRegression_Results
 Monster_dfs
 Tables_for_analyses
+Participant_Data_Raw
